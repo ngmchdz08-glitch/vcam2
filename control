@@ -1,0 +1,9 @@
+Package: com.mch.vcam
+Name: Vcam_Mch
+Depends: mobilesubstrate
+Version: 1.0.0
+Architecture: iphoneos-arm
+Description: Fake Camera + OBS Stream + AntiBank for RootHide
+Maintainer: mch
+Author: mch
+Section: Tweaks
